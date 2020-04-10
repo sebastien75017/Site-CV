@@ -1,0 +1,357 @@
+.nav{
+    width: 100%;
+    height: 121px;
+    background-color: #222;
+    margin-top: -17px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+h3{
+  color: white;
+}
+#titre2{
+color: white;
+font-family: 'Francois One', sans-serif;
+}
+#titre3{
+    color: white;
+}
+#titre4{
+    color: white;
+}
+#titre5{
+    color: white;
+}
+
+.cercle{
+  display: flex;
+  margin-left: -104px;
+  width: 240px;
+  height: 240px;
+  z-index: 200;
+  background-color: #000;
+  border-radius: 100%;
+  margin-top: -133px;
+  align-items: flex-end;
+}
+#t1{
+  color: white;
+    margin-left: 55px;
+    position: absolute;
+    top: 8px;
+    font-family: 'ABeeZee', sans-serif;
+}
+#ile{
+    width: 100%;
+    height: 531px;
+    margin-top: -2px;
+}
+.barre1{
+    width: 100%;
+    height: 121px;
+    background-color: #222;
+    display: flex;
+    margin-top: -4px;
+    justify-content: space-around;
+    align-items: center;
+}
+#t2{
+    color: white;
+    font-family: 'Francois One', sans-serif;
+}
+#t3{
+    color: white;
+    margin-left: -5%;
+    font-family: 'Francois One', sans-serif;
+}
+#t4{
+    color: white;
+    font-family: 'Francois One', sans-serif;
+}
+.carregris{
+    display: flex;
+    width: 100%;
+    height: 500px;
+    background-color: whitesmoke;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+.container{
+    width: 84%;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#rec1{
+    width: 20%;
+    height: 95px;
+    background-color: white;
+    margin-top: -18%;
+    margin-left: 18%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    display: flex;
+}
+#rec2{
+    width: 20%;
+    height: 95px;
+    background-color: white;
+    margin-top: 1%;
+    margin-left: 18%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+#rec3{
+    width: 20%;
+    height: 95px;
+    background-color: white;
+    margin-top: 1%;
+    margin-left: 18%;
+    display: flex;
+    align-items: center;
+}
+#rec4{
+    width: 20%;
+    height: 95px;
+    background-color: white;
+    margin-top: -17%;
+    margin-left: 41%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+#rec5{
+    width: 20%;
+    height: 95px;
+    background-color: white;
+    margin-top: 1%;
+    margin-left: 41%;
+    display: flex;
+    align-items: center;
+}
+#rec6{
+    width: 20%;
+    height: 95px;
+    background-color: white;
+    margin-top: 1%;
+    margin-left: 41%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+#rec7{
+    width: 20%;
+    height: 96px;
+    background-color: white;
+    margin-top: -17%;
+    margin-left: 64%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+#rec8{
+    width: 20%;
+    height: 96px;
+    background-color: white;
+    margin-top: 1%;
+    margin-left:64% ;
+    display: flex;
+    align-items: center;
+}
+#rec9{
+    width: 20%;
+    height: 96px;
+    background-color: white;
+    margin-top: 1%;
+    margin-left: 64%;
+    display: flex;
+    align-items: center;
+}
+#img1{
+    width: 33%;
+}
+#img2{
+    width: 33%;
+}
+#img3{
+    width: 33%;
+}
+#img4{
+    width: 33%;
+}
+#img5{
+    width: 33%;
+}
+#img6{
+    width: 33%;
+}
+#img7{
+    width: 33%;
+}
+#img8{
+    width: 33%;
+}
+#img9{
+    width: 33%;
+}
+h4{
+    margin-left: 3%;
+    color: #666;
+}
+.carregris2{
+    display: flex;
+    width: 100%;
+    height: 600px;
+    background-color: whitesmoke;
+    justify-content: center;
+    justify-content: flex-start;
+    align-items: center;
+}
+#ile2{
+    margin-left: 18%;
+}
+#t5{
+    margin-top: -23%;
+    margin-left: 4%;
+    font-family: 'Montserrat', sans-serif;
+}
+.A{
+    margin-left: 50%;
+    margin-top: -25%;
+}
+.B{
+    margin-left: 50%;
+}
+.C{
+    margin-left: 50%;
+}
+.D{
+    margin-left: 50%;
+}
+.E{
+    margin-left: 50%;
+}
+.F{
+    margin-left: 50%;
+}
+.G{
+    margin-left: 50%;
+}
+.H{
+    margin-left: 50%;
+}
+.I{
+    margin-left: 50%;
+}
+.J{
+    margin-left: 50%;
+}
+.K{
+    margin-left: 50%;
+}
+.L{
+    margin-left: 50%;
+}
+.M{
+    margin-left: 50%;
+}
+.N{
+    margin-left: 50%;
+}
+#t6{
+    margin-top: 13%;
+    margin-left: 22%;
+    font-family: 'Montserrat', sans-serif;
+}
+.carre{
+    width: 30%;
+    height: 450px;
+    margin-left: 36%;
+    display: flex;
+}
+#footer{
+    width: 100%;
+    height: 300px;
+    background-color: black;
+    display: flex;
+    margin-top: 7%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#tcopirigth{
+    color: #bbb;
+}
+#p1{
+    color: #bbb;
+}
+#p2{
+    color: #bbb;
+}
+#map{
+  margin-left: 35%;
+  margin-top: 5%;
+}
+#Tmaurice{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#maurice{
+  width: 100%;
+}
+#sejour{
+  margin-left: 35%;
+  font-family: 'Montserrat', sans-serif;
+}
+#paragraphe{
+  margin-left: 0%;
+}
+#tA{
+  color: black;
+  margin-left: 5%;
+}
+#tB{
+  color: black;
+  margin-left: 5%;
+}
+#tC{
+  color: black;
+  margin-left: 5%;
+}
+#tD{
+  color: black;
+  margin-left: 5%;
+}
+#tE{
+  color: black;
+  margin-left: 5%;
+}
+#tF{
+  color: black;
+  margin-left: 5%;
+}
+#tG{
+  color: black;
+  margin-left: 5%;
+}
+#tH{
+  color: black;
+  margin-left: 5%;
+}
+#tI{
+  color: black;
+  margin-left: 5%;
+}
+#paragraphe2{
+  margin-right: 24%;
+    margin-left: 1%;
+}
+#tmap{
+  margin-left: 20%;
+  font-family: 'Montserrat', sans-serif;
+}
